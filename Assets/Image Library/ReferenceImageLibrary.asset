@@ -16,12 +16,12 @@ MonoBehaviour:
   m_GuidHigh: 11604967051143783587
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 4693575861214347250
-      m_GuidHigh: 7609462874022832526
+      m_GuidLow: 4637678809340614887
+      m_GuidHigh: 16965978736887704987
     m_SerializedTextureGuid:
-      m_GuidLow: 0
-      m_GuidHigh: 0
-    m_Size: {x: 0, y: 0}
-    m_SpecifySize: 0
-    m_Name: 
+      m_GuidLow: 16460909754903177495
+      m_GuidHigh: 1918812142456583658
+    m_Size: {x: 0.16, y: 0.19208466}
+    m_SpecifySize: 1
+    m_Name: Yoda Image Target - 19.2x16 (HxW)
     m_Texture: {fileID: 0}
